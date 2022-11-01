@@ -2,11 +2,11 @@
 
 ## Context
 
-Third round, honey!. The objective of this challenge is create a brand new landing page about Iguanas, with all the wisdom gathered until now (display and float).
+Fourth round, Fight!. The objective of this challenge is create a landing page for a coupon discount offerer, using the grid system and classes offered by Bootstrap.
 
 ## View
 
-Lets see this marvellous `html` chunk [here.](https://pelafustan.github.io/challenge_03/)
+Lets check this outstanding `html` [here.](https://pelafustan.github.io/challenge_04/)
 
 ## Author
 
