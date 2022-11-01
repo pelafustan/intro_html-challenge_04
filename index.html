@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <title>Cuppon</title>
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -12,6 +12,95 @@
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
+  <nav class="navbar navbar-expand-md navbar-dark bg-green">
+    <div class="container-fluid mx-3">
+      <a href="#" class="navbar-brand">
+        <img src="assets/imgs/logo-white.png" alt="logo" height="50px">
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="menu">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link active" href="#">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Features</a>
+          </li>
+          <li class="nav-item"> 
+            <a class="nav-link" href="#">Pricing</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link disabled" href="#">Disabled</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <div class="container-md my-4">
+    <div class="row">
+      <div class="col-sm-12 col-md-4">
+        <div class="card my-2">
+          <div class="card-body">
+            Basic Card
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-4">
+        <div class="card my-2">
+          <div class="card-body">
+            Basic Card
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-4">
+        <div class="card my-2">
+          <div class="card-body">
+            Basic Card
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-4">
+        <div class="card my-2">
+          <div class="card-body">
+            Basic Card
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-4">
+        <div class="card my-2">
+          <div class="card-body">
+            Basic Card
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-4">
+        <div class="card my-2">
+          <div class="card-body">
+            Basic Card
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- <div class="container"> -->
+    <form class="mx-3 p-3 text-light bg-green">
+      <div class="col-md-12 text-center text-white pt-3">
+        <h3>Get coupons in your e-mail</h3>
+      </div>
+      <div class="mb-3 pt-3">
+        <input type="text" class="form-control" id="clientName" placeholder="Name" required>
+      </div>
+      <div class="mb-3">
+        <input type="email" class="form-control" id="userEmail" aria-describedby="emailHelp" placeholder="E-mail" required>
+        <div id="emailHelp" class="form-text text-light pb-3">We'll never share your email with anyone else.</div>
+      </div>
+      <div class="col-md-12 text-center">
+        <button type="submit" class="btn btn-outline-light text-black bg-light mb-4">Subscribe</button>
+      </div>
+    </form>
+  <!-- </div> -->
   <script src="assets/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
