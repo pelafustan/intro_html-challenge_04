@@ -6,7 +6,7 @@ Fourth round, Fight!. The objective of this challenge is create a landing page f
 
 ## View
 
-Lets check this outstanding `html` [here.](https://pelafustan.github.io/challenge_04/)
+Let's check this outstanding `html` [here.](https://pelafustan.github.io/challenge_04/)
 
 ## Author
 
