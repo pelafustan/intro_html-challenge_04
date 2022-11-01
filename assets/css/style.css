@@ -5,3 +5,11 @@ body {
 .bg-green {
     background-color: #28A745;
 }
+
+.medium {
+    font-weight: 500;
+}
+
+.light {
+    font-weight: 300;
+}
