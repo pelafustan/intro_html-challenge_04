@@ -6,6 +6,10 @@ body {
     background-color: #28A745;
 }
 
+.text-green {
+    color: #28A745;
+}
+
 .medium {
     font-weight: 500;
 }
